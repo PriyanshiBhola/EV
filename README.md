@@ -1,6 +1,5 @@
 # SmartEV
 
-![](assets/Smart-EV.gif)
 
 This project basically aims to predict a dynamic price of EV charging station and the Waiting period which persists at that station. So one can look for the nearby EV station based on DYNAMIC PRICE & WAITING PERIOD<br>
 I have taken into account 3 parameters which according to me should be able to predict Dynamic price of EV charging station:<br>
@@ -8,7 +7,7 @@ I have taken into account 3 parameters which according to me should be able to p
 
 So it all starts with a Object detection model YOLO(You Look Only Once) which is used to detect all the cars from which we can get a count of total cars. For the testing purpose I'm using an image of station with queue of cars.
 
-![picture](assets/car.jpg) ![picture](assets/car_Detected.jpg)
+![picture](assets/car.jpg)
 
 * **Time**
 
@@ -20,7 +19,7 @@ It just denotes am OR pm which can also be found by system's current time.
 
 So pass these 3 inputs to my trained Model and you'll get Dynamic Price & waiting period as **Output!**
 
-![picture](assets/output.png)
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
