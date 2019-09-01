@@ -74,5 +74,3 @@ Finally to see everything running you can just execute [run.py]() file.
 * [PyTorch](https://pytorch.org) - For Model Training
 * [ImageAI](http://imageai.org/) - For Object Detection part
 
-## Authors
-* [Priyanshi Bhola]()
