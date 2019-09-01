@@ -75,4 +75,4 @@ Finally to see everything running you can just execute [run.py]() file.
 * [ImageAI](http://imageai.org/) - For Object Detection part
 
 ## Authors
-* [Tanish Bhola](https://github.com/TanishB)
+* [Priyanshi Bhola]()
